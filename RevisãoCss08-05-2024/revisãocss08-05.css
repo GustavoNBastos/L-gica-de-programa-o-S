@@ -1,0 +1,131 @@
+header{
+
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 20px;
+
+    background-color: orange;
+}
+.p1{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+.ulnav{
+    list-style: none;
+    text-align: right;
+    
+}
+
+li{
+display: inline;
+text-align: left;
+
+
+} 
+
+.liinicio{
+
+margin-left: 10px;
+margin-right: 10px;
+}
+.lisobre{
+  
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.lireceitas{
+   
+    margin-left: 10px;
+    margin-right: 30px;
+}
+nav{
+    
+    
+    
+    font-size: 20px;
+}
+
+body{
+    text-align: center;
+    margin: auto;
+}
+
+.bch{
+    display: block;
+    margin: auto;
+
+    
+}
+h1{
+    margin: 30px;
+    font-size: 25px;
+}
+
+main{
+    width: 600px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+    color:blue;
+    margin: 0px;
+}
+.texto-verde { 
+    color: blue;
+
+}
+
+#texto-unico{
+
+}
+
+
+img{
+    display: block;
+}
+body{
+    /* background: linear-gradient(blue,black); */
+    background-attachment: fixed;
+}
+
+.fora{
+    width: 1000px; height: 2000px;
+    margin: auto;
+    /* background-color: brown; */
+    /* background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    /* background-position: contain; */
+    /* background: linear-gradient(blue,yellow,red); o site css gradiente faz isso */
+    /* background: linear-gradient(blue,yellow,red); */
+    padding: 60px 10px 30px 50px;
+}
+.dentro{
+    width: 200px; height: 100px;
+    background-color: green;
+    margin: auto
+}
