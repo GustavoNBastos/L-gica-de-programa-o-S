@@ -1,0 +1,176 @@
+header{
+
+    height: 100px;
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(53, 131, 111);
+}
+.pheader{
+    color: white;
+  
+    margin-left: 450px;
+    text-align: center;
+   
+    
+}
+.ulnav{
+    margin-left: 200px;
+    margin-top: 70px;
+    list-style: none;
+    text-align: right;
+    
+    
+}
+
+/* li{
+display: inline;
+text-align: left;
+
+
+}  */
+
+.liinicio{
+
+margin-left: 10px;
+margin-right: 10px;
+
+display: inline;
+text-align: left;
+text-decoration: underline;
+
+}
+.lisobre{
+  
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline;
+text-align: left;
+text-decoration: underline;
+
+}
+.lireceitas{
+   
+    margin-left: 10px;
+    margin-right: 30px;
+    display: inline;
+text-align: left;
+text-decoration: underline;
+
+}
+
+.video{
+    text-align: center;
+}
+
+Iframe{
+    display: block;
+    margin: auto;
+    width: 500px;
+    height: 250px;
+    margin: 20px;
+}
+
+.logo{
+    width: 100px;
+   margin-bottom: 20px;
+}
+nav{
+    
+    
+    
+    font-size: 20px;
+}
+
+body{ margin: auto;
+
+    background-color: aliceblue;
+
+    
+    
+}
+
+.ul{
+    list-style: circle;
+    text-align: initial;
+    
+    
+
+}
+.ulcobertura{
+    list-style: circle;
+    text-align: initial;
+
+    
+
+}
+
+.ulinstrucoes{
+    list-style: decimal;
+}
+
+.bch{
+    display: block;
+    margin: auto;
+    width: 550px ;
+
+    
+}
+h1{
+    margin: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
+main{
+    width: 550px;
+    margin: auto;
+}
+
+.pingredientes{
+    font-size: 25px;
+    text-align: left;
+    margin: 20px;
+}
+
+.pcobertura{
+    font-size: 25px;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.h4a{
+    font-size: 25px;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
